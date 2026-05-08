@@ -9,7 +9,7 @@
 },
 {
 "id": "chatgpt-ui-2024-05",
-"platforms": ["Gemini","Grok"],
+"platforms": ["Gemini"],
 "minVersion": "1.2.0",
 "type": "amber",
 "message": "MLMSN5",
