@@ -1,7 +1,7 @@
 [
 {
 "id": "chatgpt-ui-2024-05",
-"platforms": ["ChatGPT","Perplexity","Claude","Gemini"],
+"platforms": ["ChatGPT","Perplexity","Gemini"],
 "minVersion": "1.2.0",
 "type": "error",
 "message": "RABC5",
@@ -9,7 +9,7 @@
 },
 {
 "id": "chatgpt-ui-2024-052",
-"platforms": ["Grok"],
+"platforms": ["Claude"],
 "minVersion": "1.2.0",
 "type": "warning",
 "message": "MLMSN5",
