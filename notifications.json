@@ -3,16 +3,8 @@
 "id": "chatgpt-ui-2024-05",
 "platforms": ["ChatGPT","Perplexity","Claude","Gemini","Grok"],
 "minVersion": "1.2.0",
-"type": "warning",
-"message": "New Test3",
-"link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
-},
-{
-"id": "2",
-"platforms": ["Grok"],
-"minVersion": "1.2.0",
 "type": "info",
-"message": "grok Test3",
+"message": "New Test4",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 }
 ]
