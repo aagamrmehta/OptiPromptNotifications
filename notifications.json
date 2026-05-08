@@ -3,16 +3,16 @@
 "id": "chatgpt-ui-2024-05",
 "platforms": ["ChatGPT","Perplexity","Claude"],
 "minVersion": "1.2.0",
-"type": "info",
-"message": "New Test5",
+"type": "success",
+"message": "ReTest5",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 },
 {
 "id": "chatgpt-ui-2024-05",
 "platforms": ["Gemini","Grok"],
 "minVersion": "1.2.0",
-"type": "error",
-"message": "F Test5",
+"type": "info",
+"message": "MTest5",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 } 
 ]
