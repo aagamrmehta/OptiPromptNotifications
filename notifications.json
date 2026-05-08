@@ -4,7 +4,7 @@
 "platforms": ["ChatGPT","Perplexity","Claude","Gemini","Grok"],
 "minVersion": "1.2.0",
 "type": "warning",
-"message": "Test2: ChatGPT's UI has changed. Please update the extension.",
+"message": "New Test2: ChatGPT's UI has changed. Please update the extension.",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 }
 ]
