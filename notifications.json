@@ -11,8 +11,8 @@
 "id": "chatgpt-ui-2024-05",
 "platforms": ["Gemini","Grok"],
 "minVersion": "1.2.0",
-"type": "success",
-"message": "G Test5",
+"type": "error",
+"message": "F Test5",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 } 
 ]
