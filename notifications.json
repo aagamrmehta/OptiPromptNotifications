@@ -1,7 +1,7 @@
 [
 {
 "id": "chatgpt-ui-2024-05",
-"platforms": ["ChatGPT","Perplexity","Claude"],
+"platforms": ["ChatGPT","Perplexity","Claude","Gemini"],
 "minVersion": "1.2.0",
 "type": "error",
 "message": "RABC5",
@@ -9,9 +9,9 @@
 },
 {
 "id": "chatgpt-ui-2024-052",
-"platforms": ["Gemini"],
+"platforms": ["Gemini","Grok"],
 "minVersion": "1.2.0",
-"type": "amber",
+"type": "warning",
 "message": "MLMSN5",
 "link": { "text": "Yo", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 } 
