@@ -1,10 +1,1 @@
-[
-{
-"id": "chatgpt-ui-2024-05",
-"platforms": ["ChatGPT","Perplexity","Claude"],
-"minVersion": "1.2.0",
-"type": "success",
-"message": "Fresh pl",
-"link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
-} 
-]
+
