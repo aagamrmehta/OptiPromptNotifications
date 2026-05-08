@@ -6,5 +6,14 @@
 "type": "warning",
 "message": "New Test2: ChatGPT's UI has changed. Please update the extension.",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
-}
+},
+
+{
+"id": "chatgpt-ui-2024-052",
+"platforms": ["Perplexity","Claude","Gemini","Grok"],
+"minVersion": "1.2.0",
+"type": "info",
+"message": "New Test2",
+"link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
+}  
 ]
