@@ -1,18 +1,10 @@
 [
 {
 "id": "chatgpt-ui-2024-05",
-"platforms": ["ChatGPT","Perplexity","Gemini"],
+"platforms": ["ChatGPT","Perplexity","Claude"],
 "minVersion": "1.2.0",
-"type": "error",
-"message": "RABC5",
+"type": "success",
+"message": "Fresh",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
-},
-{
-"id": "chatgpt-ui-2024-052",
-"platforms": ["Claude"],
-"minVersion": "1.2.0",
-"type": "warning",
-"message": "MLMSN5",
-"link": { "text": "Yo", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 } 
 ]
