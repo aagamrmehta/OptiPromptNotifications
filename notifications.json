@@ -1,7 +1,7 @@
 [
 {
 "id": "chatgpt-ui-2024-05",
-"platforms": ["ChatGPT","Perplexity","Claude","Gemini"],
+"platforms": ["ChatGPT","Perplexity","Claude"],
 "minVersion": "1.2.0",
 "type": "info",
 "message": "New Test5",
