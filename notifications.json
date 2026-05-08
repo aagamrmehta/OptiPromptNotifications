@@ -4,7 +4,7 @@
 "platforms": ["ChatGPT","Perplexity","Claude","Gemini","Grok"],
 "minVersion": "1.2.0",
 "type": "info",
-"message": "New Test4",
+"message": "New Test5",
 "link": { "text": "Update now", "url": "https://chromewebstore.google.com/detail/optiprompt/emhaanamjnigmppdapdheoipcnpelknd" }
 }
 ]
